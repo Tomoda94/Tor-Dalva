@@ -1,1 +1,62 @@
+body{
+    margin:0;
+    Font-family: 'shadows into light';
+    font-size:20px;
+    line-height:30px;
+    
+}
 
+header{
+background-color:green;
+text-align: center;
+padding-top:25px;
+padding-bottom:25px;
+}
+
+header h1{
+color:goldenrod;
+font-size:45px;
+
+}
+
+header img{
+    border-radius:90px;
+    width:250px;
+    border:15px solid goldenrod;
+}
+
+h1,h2{
+font-family:'Cinzel', serif;
+color:green;
+}
+
+main{
+    max-width: 1450px;
+    margin:0 auto;
+    padding:0 20px
+   
+}
+main img{
+max-width:100%;
+}
+
+a{
+    color:green;
+}
+a:hover{
+    color:green;
+    background-color:goldenrod;
+}
+
+footer{
+    background-color:green;
+    color:goldenrod;
+    padding:20px;
+}
+footer a{
+    color:goldenrod;
+}
+footer p{
+    margin: 0;
+}
+    
